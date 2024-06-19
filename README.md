@@ -5,7 +5,7 @@ MedAi is an AI-powered application designed to assist healthcare professionals i
 
 1. Basic libraries such as numpy, matplotlib, cv2, requests, time, flask.
 
-2. `pip install git+https://github.com/NLPatVCU/medaCy.git` and `pip install git+https://github.com/NLPatVCU/medaCy_model_clinical_notes.git` . This installs medaCy NER which is built upon Spacy.
+2. Install the requirements.txt using pip install -r requirements.txt
 
 3. We use Microsoft Azure's Computer Vision API to extract text (both handwritten and typed). You will require a valid key which you can find in your Microsoft Azure Cognitive Services Account.
 

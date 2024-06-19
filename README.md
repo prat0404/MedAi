@@ -14,15 +14,6 @@ MedAi is an AI-powered application designed to assist healthcare professionals i
 # Results 
 Checkout the video;- https://youtu.be/5dUVBtUkbPQ 
 
-## Doctor Prescription Parser - 
-![alt_text](https://github.com/Snehal-Reddy/MedAI/blob/master/static/Screenshot%20from%202019-09-12%2022-52-18.png)
-
-## Interctive Symptom Checker -
-
-![alt_text](https://github.com/Snehal-Reddy/MedAI/blob/master/static/Screenshot%20from%202019-09-12%2022-23-24.png)
-![alt_text](https://github.com/Snehal-Reddy/MedAI/blob/master/static/Screenshot%20from%202019-09-12%2022-27-07.png)
-![alt_text](https://github.com/Snehal-Reddy/MedAI/blob/master/static/Screenshot%20from%202019-09-12%2022-27-18.png)
-
 
 
 

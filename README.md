@@ -12,6 +12,7 @@ MedAi is an AI-powered application designed to assist healthcare professionals i
 4. Add the key in the file `backend/my_azure_api.py` by setting the value of the variable `_key`. 
 
 # Results 
+Checkout the video;- https://youtu.be/5dUVBtUkbPQ 
 
 ## Doctor Prescription Parser - 
 ![alt_text](https://github.com/Snehal-Reddy/MedAI/blob/master/static/Screenshot%20from%202019-09-12%2022-52-18.png)

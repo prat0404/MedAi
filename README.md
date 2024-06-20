@@ -14,8 +14,9 @@ MedAi is an AI-powered application designed to assist healthcare professionals i
 # Results 
 Checkout the video;- https://youtu.be/5dUVBtUkbPQ 
 
-
-Don't Forget to star the repo.
+# Liked the repo?
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/prat0404)
+ 
 
 
 
